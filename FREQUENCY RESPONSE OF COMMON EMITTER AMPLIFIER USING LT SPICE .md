@@ -25,6 +25,7 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Tabulation
+![WhatsApp Image 2026-04-01 at 5 19 02 PM](https://github.com/user-attachments/assets/3102abe1-3f9e-4f53-9d18-6d8387c294d9)
 
 ## Graph
 
