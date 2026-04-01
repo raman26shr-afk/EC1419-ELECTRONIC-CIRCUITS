@@ -14,4 +14,4 @@
 RESULT :
 <img width="697" height="292" alt="510586453-931385be-3c78-4682-a10c-1924b3faa1d4" src="https://github.com/user-attachments/assets/6aca7339-18e6-4c15-99ff-33e769d9e6df" />
 
-## VOLTAGE GAIN = 39 DB##
+## VOLTAGE GAIN = 39 DB
